@@ -1,0 +1,510 @@
+{
+  "ID": "eb775cfe-1e9e-4933-a5c7-3119d7ec76f5",
+  "Version": "2.3.3.0",
+  "Name": "OpenRoomItemNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 93,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -872.0,
+            "TopMargin": -120.0,
+            "Tag": 94,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "13water.jpg",
+                  "Plist": ""
+                },
+                "Scale9Width": 100,
+                "Scale9Height": 100,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0631,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1147,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 5.0,
+                "RightMargin": 767.0,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 121,
+                "ActionTag": -1618915888,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "GameTypeImage",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "Text Label",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 343.1067,
+                  "Y": 85.1942
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3935,
+                  "Y": 0.71
+                },
+                "PreSize": {
+                  "X": 0.5161,
+                  "Y": 0.2917
+                },
+                "LeftMargin": 118.1067,
+                "RightMargin": 303.8933,
+                "TopMargin": 17.3058,
+                "BottomMargin": 67.6942,
+                "Tag": 145,
+                "ActionTag": -2062740674,
+                "Size": {
+                  "X": 450.0,
+                  "Y": 35.0
+                },
+                "Name": "RoomNameText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "房主：",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 168.1067,
+                  "Y": 30.2911
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1928,
+                  "Y": 0.2524
+                },
+                "PreSize": {
+                  "X": 0.1147,
+                  "Y": 0.2917
+                },
+                "LeftMargin": 118.1067,
+                "RightMargin": 653.8933,
+                "TopMargin": 72.2089,
+                "BottomMargin": 12.7911,
+                "Tag": 146,
+                "ActionTag": 1089550045,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 35.0
+                },
+                "Name": "Text_19",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "玩家名字",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 370.9658,
+                  "Y": 30.2911
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4254,
+                  "Y": 0.2524
+                },
+                "PreSize": {
+                  "X": 0.4014,
+                  "Y": 0.2917
+                },
+                "LeftMargin": 195.9658,
+                "RightMargin": 326.0342,
+                "TopMargin": 72.2089,
+                "BottomMargin": 12.7911,
+                "Tag": 147,
+                "ActionTag": -70455501,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 35.0
+                },
+                "Name": "RoomOwnerNameText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 45,
+                "LabelText": "10",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 672.5235,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7712,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0573,
+                  "Y": 0.4167
+                },
+                "LeftMargin": 647.5235,
+                "RightMargin": 174.4765,
+                "TopMargin": 35.0,
+                "BottomMargin": 35.0,
+                "Tag": 27,
+                "ActionTag": -1864155445,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Name": "GamePlayerAmountText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 45,
+                "LabelText": "/",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 625.8427,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7177,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0287,
+                  "Y": 0.4167
+                },
+                "LeftMargin": 613.3427,
+                "RightMargin": 233.6573,
+                "TopMargin": 35.0,
+                "BottomMargin": 35.0,
+                "Tag": 28,
+                "ActionTag": 2089931146,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_11",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 45,
+                "LabelText": "10",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 579.1618,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6642,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0573,
+                  "Y": 0.4167
+                },
+                "LeftMargin": 554.1618,
+                "RightMargin": 267.8382,
+                "TopMargin": 35.0,
+                "BottomMargin": 35.0,
+                "Tag": 29,
+                "ActionTag": -1078436556,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Name": "CurrentPlayerAmountText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "加 入",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 774.6437,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8884,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1147,
+                  "Y": 0.3333
+                },
+                "LeftMargin": 724.6437,
+                "RightMargin": 47.3563,
+                "TopMargin": 40.0,
+                "BottomMargin": 40.0,
+                "Tag": 30,
+                "ActionTag": 2081486398,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 40.0
+                },
+                "Name": "InToRoomButton",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 890421564,
+            "Size": {
+              "X": 872.0,
+              "Y": 120.0
+            },
+            "Name": "OpenRoomItemPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "OpenRoomItemNode",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "13water.jpg",
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

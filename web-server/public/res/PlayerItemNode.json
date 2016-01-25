@@ -1,0 +1,168 @@
+{
+  "ID": "4ca3435a-5d8e-4ec9-a9b0-2080dee7b384",
+  "Version": "2.3.3.0",
+  "Name": "PlayerItemNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 21,
+        "Children": [
+          {
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -375.0,
+            "TopMargin": -50.0,
+            "Tag": 32,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "anonymous.jpg",
+                  "Plist": ""
+                },
+                "Scale9Width": 200,
+                "Scale9Height": 200,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 25.0,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0667,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 1.0
+                },
+                "RightMargin": 325.0,
+                "Tag": 33,
+                "ActionTag": 1230507048,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Name": "IconImage",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "玩家ID",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 215.0,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5733,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8533,
+                  "Y": 1.0
+                },
+                "LeftMargin": 55.0,
+                "Tag": 34,
+                "ActionTag": -1662802608,
+                "Size": {
+                  "X": 320.0,
+                  "Y": 50.0
+                },
+                "Name": "PlayerNameText",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1060806332,
+            "Size": {
+              "X": 375.0,
+              "Y": 50.0
+            },
+            "Name": "PlayerItemPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "PlayerItemNode",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "anonymous.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

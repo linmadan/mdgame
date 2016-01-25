@@ -1,0 +1,81 @@
+{
+  "ID": "e294aaaf-4d97-40ab-a6f6-375a7828f18b",
+  "Version": "2.3.3.0",
+  "Name": "LoginBackGroundLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 5,
+        "Children": [
+          {
+            "FontSize": 88,
+            "LabelText": "水水更健康",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9986,
+              "Y": 468.476
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6507
+            },
+            "PreSize": {
+              "X": 0.3438,
+              "Y": 0.1222
+            },
+            "LeftMargin": 419.9986,
+            "RightMargin": 420.0014,
+            "TopMargin": 207.524,
+            "BottomMargin": 424.476,
+            "Tag": 21,
+            "ActionTag": 1640719081,
+            "Size": {
+              "X": 440.0,
+              "Y": 88.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

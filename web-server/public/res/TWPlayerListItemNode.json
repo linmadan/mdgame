@@ -1,0 +1,221 @@
+{
+  "ID": "c3c2a5dd-9cbd-4633-9bca-76eb80491636",
+  "Version": "2.3.3.0",
+  "Name": "TWPlayerListItemNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 13,
+        "Children": [
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -500.0,
+            "TopMargin": -80.0,
+            "Tag": 14,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "anonymous.jpg",
+                  "Plist": ""
+                },
+                "Scale9Width": 200,
+                "Scale9Height": 200,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 215.0,
+                  "Y": 40.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.43,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1,
+                  "Y": 0.625
+                },
+                "LeftMargin": 190.0,
+                "RightMargin": 260.0,
+                "TopMargin": 15.0,
+                "BottomMargin": 15.0,
+                "Tag": 16,
+                "ActionTag": -1341856767,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Name": "PlayerIconImage",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.0,
+                  "Y": 45.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7,
+                  "Y": 0.5625
+                },
+                "PreSize": {
+                  "X": 0.4,
+                  "Y": 0.375
+                },
+                "LeftMargin": 250.0,
+                "RightMargin": 50.0,
+                "TopMargin": 20.0,
+                "BottomMargin": 30.0,
+                "Tag": 17,
+                "ActionTag": -329150715,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 30.0
+                },
+                "Name": "PlayerNameText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "playhand48.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 48,
+                "Scale9Height": 48,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 154.0,
+                  "Y": 40.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.308,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.096,
+                  "Y": 0.6
+                },
+                "LeftMargin": 130.0,
+                "RightMargin": 322.0,
+                "TopMargin": 16.0,
+                "BottomMargin": 16.0,
+                "Tag": 18,
+                "ActionTag": -1009787556,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 48.0
+                },
+                "VisibleForFrame": false,
+                "Name": "PlayHandImage",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1240458961,
+            "Size": {
+              "X": 500.0,
+              "Y": 80.0
+            },
+            "Name": "TWPlayerListItemPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "anonymous.jpg",
+        "playhand48.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mdgame-pomelo",
+  "version": "0.0.1",
+  "author": {
+    "name": "linmadan",
+    "email": "772181827@qq.com"
+  },
+  "dependencies": {
+    "pomelo": "1.2.2",
+    "underscore": "",
+    "crc": "",
+    "async": ""
+  }
+}
+

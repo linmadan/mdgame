@@ -1,0 +1,265 @@
+{
+  "ID": "097f0336-7bdb-4210-ba6f-fb6777042e32",
+  "Version": "2.3.3.0",
+  "Name": "RoomPlayerItemNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 59,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -476.0,
+            "TopMargin": -130.0,
+            "Tag": 70,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "anonymous.jpg",
+                  "Plist": ""
+                },
+                "Scale9Width": 200,
+                "Scale9Height": 200,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1261,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2101,
+                  "Y": 0.7692
+                },
+                "LeftMargin": 10.0,
+                "RightMargin": 366.0,
+                "TopMargin": 15.0,
+                "BottomMargin": 15.0,
+                "Tag": 71,
+                "ActionTag": 1242976176,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "OtherPlayerIconImage",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 35,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 280.0,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5882,
+                  "Y": 0.6923
+                },
+                "PreSize": {
+                  "X": 0.6303,
+                  "Y": 0.3846
+                },
+                "LeftMargin": 130.0,
+                "RightMargin": 46.0,
+                "TopMargin": 15.0,
+                "BottomMargin": 65.0,
+                "Tag": 72,
+                "ActionTag": -1073306213,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 50.0
+                },
+                "Name": "OtherPlayerNameText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ready.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 48,
+                "Scale9Height": 48,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 220.0,
+                  "Y": 38.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4622,
+                  "Y": 0.2923
+                },
+                "PreSize": {
+                  "X": 0.1008,
+                  "Y": 0.3692
+                },
+                "LeftMargin": 196.0,
+                "RightMargin": 232.0,
+                "TopMargin": 68.0,
+                "BottomMargin": 14.0,
+                "Tag": 73,
+                "ActionTag": -1106836037,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 48.0
+                },
+                "VisibleForFrame": false,
+                "Name": "OtherPlayerReadyImage",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "house48.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 48,
+                "Scale9Height": 48,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 160.0,
+                  "Y": 38.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3361,
+                  "Y": 0.2923
+                },
+                "PreSize": {
+                  "X": 0.1008,
+                  "Y": 0.3692
+                },
+                "LeftMargin": 136.0,
+                "RightMargin": 292.0,
+                "TopMargin": 68.0,
+                "BottomMargin": 14.0,
+                "Tag": 26,
+                "ActionTag": -162784783,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 48.0
+                },
+                "VisibleForFrame": false,
+                "Name": "OtherHouseOwnerImage",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1339345522,
+            "Size": {
+              "X": 476.0,
+              "Y": 130.0
+            },
+            "Name": "RoomPlayerItemPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "RoomPlayerItemNode",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "anonymous.jpg",
+        "house48.png",
+        "ready.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

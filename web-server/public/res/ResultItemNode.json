@@ -1,0 +1,1097 @@
+{
+  "ID": "e6730b8f-e8f6-4515-b4a7-14dd598acd4a",
+  "Version": "2.3.3.0",
+  "Name": "ResultItemNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 50,
+        "Children": [
+          {
+            "ComboBoxIndex": 1,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -295.0,
+            "TopMargin": -495.0,
+            "Tag": 51,
+            "Children": [
+              {
+                "BackColorAlpha": 179,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 30,
+                  "G": 144
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1.0,
+                  "Y": 344.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0034,
+                  "Y": 0.6949
+                },
+                "PreSize": {
+                  "X": 0.9932,
+                  "Y": 0.303
+                },
+                "LeftMargin": 1.0,
+                "RightMargin": 1.0,
+                "TopMargin": 1.0,
+                "BottomMargin": 344.0,
+                "Tag": 52,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "anonymous.jpg",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 200,
+                    "Scale9Height": 200,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 146.5,
+                      "Y": 98.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.6533
+                    },
+                    "PreSize": {
+                      "X": 0.273,
+                      "Y": 0.5333
+                    },
+                    "LeftMargin": 106.5,
+                    "RightMargin": 106.5,
+                    "TopMargin": 12.0,
+                    "BottomMargin": 58.0,
+                    "Tag": 55,
+                    "ActionTag": -1412556757,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "PlayerIconImage",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "Text Label",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 146.5,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.18
+                    },
+                    "PreSize": {
+                      "X": 0.9556,
+                      "Y": 0.3333
+                    },
+                    "LeftMargin": 6.5,
+                    "RightMargin": 6.5,
+                    "TopMargin": 98.0,
+                    "BottomMargin": 2.0,
+                    "Tag": 56,
+                    "ActionTag": 238404143,
+                    "Size": {
+                      "X": 280.0,
+                      "Y": 50.0
+                    },
+                    "Name": "PlayerNameText",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -772620568,
+                "Size": {
+                  "X": 293.0,
+                  "Y": 150.0
+                },
+                "Name": "PlayerPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 30,
+                  "G": 144
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0034,
+                  "Y": 0.1212
+                },
+                "PreSize": {
+                  "X": 0.9932,
+                  "Y": 0.5657
+                },
+                "LeftMargin": 1.0,
+                "RightMargin": 1.0,
+                "TopMargin": 155.0,
+                "BottomMargin": 60.0,
+                "Tag": 53,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.0,
+                      "Y": 210.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1195,
+                      "Y": 0.75
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 10.75,
+                    "RightMargin": 233.75,
+                    "TopMargin": 38.25,
+                    "BottomMargin": 178.25,
+                    "Tag": 58,
+                    "ActionTag": -594845369,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card1Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 55.0,
+                      "Y": 210.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1877,
+                      "Y": 0.75
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 30.75,
+                    "RightMargin": 213.75,
+                    "TopMargin": 38.25,
+                    "BottomMargin": 178.25,
+                    "Tag": 59,
+                    "ActionTag": 1973472945,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card2Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 25,
+                    "LabelText": "同花顺",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 240.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8191,
+                      "Y": 0.1786
+                    },
+                    "PreSize": {
+                      "X": 0.273,
+                      "Y": 0.1071
+                    },
+                    "LeftMargin": 200.0,
+                    "RightMargin": 13.0,
+                    "TopMargin": 215.0,
+                    "BottomMargin": 35.0,
+                    "Tag": 60,
+                    "ActionTag": 465456688,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 30.0
+                    },
+                    "Name": "EndTypeText",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 25,
+                    "LabelText": "十三水",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 240.0,
+                      "Y": 210.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8191,
+                      "Y": 0.75
+                    },
+                    "PreSize": {
+                      "X": 0.273,
+                      "Y": 0.1071
+                    },
+                    "LeftMargin": 200.0,
+                    "RightMargin": 13.0,
+                    "TopMargin": 55.0,
+                    "BottomMargin": 195.0,
+                    "Tag": 61,
+                    "ActionTag": 1188458813,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 30.0
+                    },
+                    "Name": "FirstTypeText",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 25,
+                    "LabelText": "炸 弹",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 240.0,
+                      "Y": 130.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8191,
+                      "Y": 0.4643
+                    },
+                    "PreSize": {
+                      "X": 0.273,
+                      "Y": 0.1071
+                    },
+                    "LeftMargin": 200.0,
+                    "RightMargin": 13.0,
+                    "TopMargin": 135.0,
+                    "BottomMargin": 115.0,
+                    "Tag": 62,
+                    "ActionTag": -680579075,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 30.0
+                    },
+                    "Name": "MiddleTypeText",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 210.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.256,
+                      "Y": 0.75
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 50.75,
+                    "RightMargin": 193.75,
+                    "TopMargin": 38.25,
+                    "BottomMargin": 178.25,
+                    "Tag": 63,
+                    "ActionTag": -328368204,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card3Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.0,
+                      "Y": 130.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1195,
+                      "Y": 0.4643
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 10.75,
+                    "RightMargin": 233.75,
+                    "TopMargin": 118.25,
+                    "BottomMargin": 98.25,
+                    "Tag": 64,
+                    "ActionTag": -1105463351,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card4Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 55.0,
+                      "Y": 130.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1877,
+                      "Y": 0.4643
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 30.75,
+                    "RightMargin": 213.75,
+                    "TopMargin": 118.25,
+                    "BottomMargin": 98.25,
+                    "Tag": 65,
+                    "ActionTag": 741960111,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card5Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 130.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.256,
+                      "Y": 0.4643
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 50.75,
+                    "RightMargin": 193.75,
+                    "TopMargin": 118.25,
+                    "BottomMargin": 98.25,
+                    "Tag": 66,
+                    "ActionTag": 1724632477,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card6Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 95.0,
+                      "Y": 130.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3242,
+                      "Y": 0.4643
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 70.75,
+                    "RightMargin": 173.75,
+                    "TopMargin": 118.25,
+                    "BottomMargin": 98.25,
+                    "Tag": 67,
+                    "ActionTag": -672297063,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card7Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 130.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3925,
+                      "Y": 0.4643
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 90.75,
+                    "RightMargin": 153.75,
+                    "TopMargin": 118.25,
+                    "BottomMargin": 98.25,
+                    "Tag": 68,
+                    "ActionTag": -495579409,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card8Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1195,
+                      "Y": 0.1786
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 10.75,
+                    "RightMargin": 233.75,
+                    "TopMargin": 198.25,
+                    "BottomMargin": 18.25,
+                    "Tag": 69,
+                    "ActionTag": -104664417,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card9Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 55.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1877,
+                      "Y": 0.1786
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 30.75,
+                    "RightMargin": 213.75,
+                    "TopMargin": 198.25,
+                    "BottomMargin": 18.25,
+                    "Tag": 70,
+                    "ActionTag": 981146255,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card10Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.256,
+                      "Y": 0.1786
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 50.75,
+                    "RightMargin": 193.75,
+                    "TopMargin": 198.25,
+                    "BottomMargin": 18.25,
+                    "Tag": 71,
+                    "ActionTag": 1217377127,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card11Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 95.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3242,
+                      "Y": 0.1786
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 70.75,
+                    "RightMargin": 173.75,
+                    "TopMargin": 198.25,
+                    "BottomMargin": 18.25,
+                    "Tag": 72,
+                    "ActionTag": 1604759670,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card12Image",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "heart_A.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3925,
+                      "Y": 0.1786
+                    },
+                    "PreSize": {
+                      "X": 0.1655,
+                      "Y": 0.2268
+                    },
+                    "LeftMargin": 90.75,
+                    "RightMargin": 153.75,
+                    "TopMargin": 198.25,
+                    "BottomMargin": 18.25,
+                    "Tag": 73,
+                    "ActionTag": 644201042,
+                    "Size": {
+                      "X": 48.5,
+                      "Y": 63.5
+                    },
+                    "Name": "Card13Image",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1870810178,
+                "Size": {
+                  "X": 293.0,
+                  "Y": 280.0
+                },
+                "Name": "CardPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 30,
+                  "G": 144
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0034,
+                  "Y": 0.002
+                },
+                "PreSize": {
+                  "X": 0.9932,
+                  "Y": 0.1131
+                },
+                "LeftMargin": 1.0,
+                "RightMargin": 1.0,
+                "TopMargin": 438.0,
+                "BottomMargin": 1.0,
+                "Tag": 54,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 45,
+                    "LabelText": "Text Label",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 146.5,
+                      "Y": 28.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.8532,
+                      "Y": 0.8929
+                    },
+                    "LeftMargin": 21.5,
+                    "RightMargin": 21.5,
+                    "TopMargin": 3.0,
+                    "BottomMargin": 3.0,
+                    "Tag": 57,
+                    "ActionTag": 683802123,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 50.0
+                    },
+                    "Name": "ScoreText",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 145124394,
+                "Size": {
+                  "X": 293.0,
+                  "Y": 56.0
+                },
+                "Name": "ScorePanel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1342031462,
+            "Size": {
+              "X": 295.0,
+              "Y": 495.0
+            },
+            "Name": "ResultItemPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "ResultItemNode",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "anonymous.jpg",
+        "heart_A.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

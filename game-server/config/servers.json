@@ -1,0 +1,82 @@
+{
+  "development": {
+    "gate": [
+      {
+        "id": "gate-server-1",
+        "host": "127.0.0.1",
+        "clientPort": 3010,
+        "frontend": true
+      }
+    ],
+    "connector": [
+      {
+        "id": "connector-server-1",
+        "host": "127.0.0.1",
+        "port": 4010,
+        "clientPort": 3011,
+        "frontend": true
+      }
+    ],
+    "account": [
+      {
+        "id": "account-server-1",
+        "host": "127.0.0.1",
+        "port": 4011
+      }
+    ],
+    "house": [
+      {
+        "id": "house-server-1",
+        "host": "127.0.0.1",
+        "port": 4012
+      }
+    ],
+    "thirteenwater": [
+      {
+        "id": "thirteenwater-server-1",
+        "host": "127.0.0.1",
+        "port": 4013
+      }
+    ]
+  },
+  "production": {
+    "gate": [
+      {
+        "id": "gate-server-1",
+        "host": "45.115.145.58",
+        "clientPort": 3010,
+        "frontend": true
+      }
+    ],
+    "connector": [
+      {
+        "id": "connector-server-1",
+        "host": "45.115.145.58",
+        "port": 4010,
+        "clientPort": 3011,
+        "frontend": true
+      }
+    ],
+    "account": [
+      {
+        "id": "account-server-1",
+        "host": "45.115.145.58",
+        "port": 4011
+      }
+    ],
+    "house": [
+      {
+        "id": "house-server-1",
+        "host": "45.115.145.58",
+        "port": 4012
+      }
+    ],
+    "thirteenwater": [
+      {
+        "id": "thirteenwater-server-1",
+        "host": "45.115.145.58",
+        "port": 4013
+      }
+    ]
+  }
+}
