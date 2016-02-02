@@ -45,14 +45,13 @@ Handler.prototype.entry = function (msg, session, next) {
                     next(null, {code: code.FAIL, user: user});
                     return;
                 }
-                session.set('playername', user.name);
+                session.set('playername', user.userName);
                 session.set('playerId', user.userID);
                 session.on('closed', onUserLeave.bind(null, self.app));
                 session.pushAll(cb);
             }, function (cb) {
                 var playerData = {};
                 playerData.playerID = user.userID;
-                playerData.name = user.name;
                 self.app.rpc.house.houseRemote.playerComingIn(session, playerData, cb);
             }], function (err, comingInCode) {
                 if (err) {

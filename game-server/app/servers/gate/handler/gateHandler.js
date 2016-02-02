@@ -15,7 +15,7 @@ Handler.prototype.queryConnector = function (msg, session, next) {
     switch (msg.entryWay) {
         case "anonymous" :
             async.waterfall([function (cb) {
-                self.app.rpc.account.accountRemote.register(session, {}, cb);
+                self.app.rpc.account.accountRemote.register(session, msg, cb);
             }], function (err, userData) {
                 if (err) {
                     next(err, {code: code.FAIL});
@@ -29,6 +29,8 @@ Handler.prototype.queryConnector = function (msg, session, next) {
                 next(null, {
                     code: code.OK,
                     userID: userData.userID,
+                    userName: userData.userName,
+                    userIconImage: userData.userIconImage,
                     host: connector.host,
                     port: connector.clientPort
                 });

@@ -6,7 +6,7 @@ var Remote = function (app) {
 };
 
 Remote.prototype.register = function (userData, cb) {
-    var AAccount = account.createAAccount();
+    var AAccount = account;
     AAccount.registerUser(userData, function (err, userData) {
         if (err) {
             cb(err);
@@ -17,7 +17,7 @@ Remote.prototype.register = function (userData, cb) {
 };
 
 Remote.prototype.auth = function (authData, cb) {
-    var AAccount = account.createAAccount();
+    var AAccount = account;
     AAccount.userAuth(authData, function (err, isPass) {
         if (err) {
             cb(err);
@@ -28,7 +28,7 @@ Remote.prototype.auth = function (authData, cb) {
 };
 
 Remote.prototype.login = function (userID, accountType, cb) {
-    var AAccount = account.createAAccount();
+    var AAccount = account;
     AAccount.userLogin(userID, accountType, function (err, isSuccess) {
         if (err) {
             cb(err);
@@ -39,7 +39,7 @@ Remote.prototype.login = function (userID, accountType, cb) {
 };
 
 Remote.prototype.logout = function (userID, accountType, cb) {
-    var AAccount = account.createAAccount();
+    var AAccount = account;
     AAccount.userLogout(userID, accountType, function (err, isSuccess) {
         if (err) {
             cb(err);
@@ -50,7 +50,7 @@ Remote.prototype.logout = function (userID, accountType, cb) {
 };
 
 Remote.prototype.getUser = function (userID, accountType, cb) {
-    var AAccount = account.createAAccount();
+    var AAccount = account;
     AAccount.getUserData(userID, accountType, function (err, userData) {
         if (err) {
             cb(err);

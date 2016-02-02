@@ -20,6 +20,20 @@ app.configure('production|development', 'connector', function () {
         });
 });
 
+var accountRoute = function (routeParam, msg, app, cb) {
+    var accountServers = app.getServersByType('account');
+    if (!accountServers || accountServers.length === 0) {
+        cb(new Error('can not find account servers.'));
+        return;
+    }
+    var serverID = routeParam;
+    cb(null, serverID);
+};
+
+app.configure('production|development', 'account', function () {
+    app.route('account', accountRoute);
+});
+
 var houseRoute = function (routeParam, msg, app, cb) {
     var houseServers = app.getServersByType('house');
     if (!houseServers || houseServers.length === 0) {
